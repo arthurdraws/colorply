@@ -1,8 +1,7 @@
 [![](https://img.shields.io/readthedocs/colorply)](https://colorply.readthedocs.io/en/latest/index.html)
 [![](https://img.shields.io/pypi/v/colorply)](https://pypi.org/project/colorply/)
 [![](https://img.shields.io/pypi/status/colorply)](https://pypi.org/project/colorply/)
-[![Website](https://img.shields.io/website?url=http%3A%2F%2Farthurdujardin.com%2Fproject%2Fcolorply.html)](http://arthurdujardin.com/project/colorply.html) 
-![GitHub stars](https://img.shields.io/github/stars/arthurdjn/colorply?style=social)
+[![Website](https://img.shields.io/website?url=http%3A%2F%2Farthurdujardin.com%2Fprojects%2Fcolorply.html)](http://arthurdujardin.com/projects/colorply.html) 
 
 # colorply
 
